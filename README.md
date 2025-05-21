@@ -1,55 +1,87 @@
 # Code-Quest-Rebooted
 
-🧠 Code Quest – A Web-Based Coding Adventure Game
-Code Quest is an interactive, web-based game built by NexCore Games that transforms traditional programming education into an immersive learning experience. Designed for curious minds and aspiring developers, the game blends fun and education across three exciting stages:
+# 🧠 Code Quest – A Web-Based Coding Adventure Game  
+Built with ❤️ by NexCore Games
 
-🚀 Game Stages
-MCQ Arena
-Answer multiple-choice coding questions to test your theoretical knowledge across topics like logic, syntax, and concepts.
+![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs)
+![TypeScript](https://img.shields.io/badge/TypeScript-007acc?style=for-the-badge&logo=typescript)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38b2ac?style=for-the-badge&logo=tailwind-css)
+![Status](https://img.shields.io/badge/Stage-1%20of%203%20Complete-blue?style=for-the-badge)
 
-Puzzle Forge (Coming Soon)
-Engage in drag-and-drop or shape-matching challenges that help reinforce coding logic and flow using interactive diagrams.
+---
 
-Code Combat (Coming Soon)
-Solve real coding puzzles by completing, guessing, or fixing broken code segments to earn your final badge of mastery.
+## 🎮 What is Code Quest?
 
-🎮 Tech Stack
-Next.js + TypeScript
+**Code Quest** is a gamified coding adventure designed to make learning fun and interactive! Built as a part of the **NexCore Games** initiative, this browser-based game takes players through a series of coding-themed challenges.
 
-Tailwind CSS for styling
+---
 
-Framer Motion for animations
+## 🚀 Gameplay Stages
 
-MongoDB (for user progress data - optional/coming soon)
+| Stage | Name          | Description |
+|-------|---------------|-------------|
+| 1️⃣    | **MCQ Arena** | Answer multiple-choice questions covering coding concepts, logic, and syntax. |
+| 2️⃣    | **Puzzle Forge** *(Coming Soon)* | Solve drag-and-drop or matching puzzles that simulate code structures. |
+| 3️⃣    | **Code Combat** *(Coming Soon)* | Fix or complete code snippets to progress and win. |
 
-💡 Features
-Engaging multi-level gameplay
+---
 
-Clean and responsive UI
+## 🧰 Tech Stack
 
-Smooth transitions and animations
+- **Frontend:** [Next.js](https://nextjs.org/) + [TypeScript](https://www.typescriptlang.org/)
+- **Styling:** [Tailwind CSS](https://tailwindcss.com/)
+- **Animation:** [Framer Motion](https://www.framer.com/motion/)
 
-Potential for player authentication and score saving (future phase)
+---
 
-🛠️ Future Plans
-Full integration of all 3 stages
+## 📸 Screenshots
 
-Leaderboard and XP system
+> ![image](https://github.com/user-attachments/assets/54a77a22-2aec-40f7-8b08-08d46c6e757f)
 
-Audio effects and background music
 
-Admin panel for managing questions and puzzles
+---
 
-📂 Folder Structure Highlights
-bash
-Copy
-Edit
-/app
-  /game          # Game flow routing
-  /mcq           # MCQ stage logic and UI
-/components      # Shared UI components
-/lib             # Utility functions and helpers
-/public          # Static assets
-🤝 Contribution
-We’re open to ideas and contributions! If you’re passionate about gamified learning, feel free to fork, play, and suggest.
+## ✨ Features
+
+- ✅ Clean, responsive design
+- ✅ Engaging stage-based learning
+- ✅ Fast and smooth transitions
+- 🔒 Player progress saving *(coming soon)*
+- 🔊 Sound effects & background music *(coming soon)*
+- 🧠 Leaderboards and scoring system *(planned)*
+
+---
+
+
+---
+
+## 🛣️ Roadmap
+
+- [x] Stage 1: MCQ Arena
+- [ ] Stage 2: Puzzle Forge
+- [ ] Stage 3: Code Combat
+- [ ] User Authentication
+- [ ] Score Tracking + Leaderboard
+- [ ] Admin Panel for Content Management
+
+---
+
+## 🤝 Contributing
+
+Love the idea? Want to collaborate or add your own twist?  
+Fork the repo, raise an issue, or just shoot us a PR!
+
+---
+
+## 👥 Team
+
+> Developed with passion by **NexCore Games**  
+> Founders: Shreyas M
+
+---
+
+## 📜 License
+
+This project is open-source and available under the [MIT License](LICENSE).
+
 
