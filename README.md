@@ -1,85 +1,36 @@
-# Code-Quest-Rebooted
+This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
-# 🧠 Code Quest – A Web-Based Coding Adventure Game  
-Built with ❤️ by NexCore Games
+## Getting Started
 
-![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs)
-![TypeScript](https://img.shields.io/badge/TypeScript-007acc?style=for-the-badge&logo=typescript)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38b2ac?style=for-the-badge&logo=tailwind-css)
-![Status](https://img.shields.io/badge/Stage-1%20of%203%20Complete-blue?style=for-the-badge)
+First, run the development server:
 
----
+```bash
+npm run dev
+# or
+yarn dev
+# or
+pnpm dev
+# or
+bun dev
+```
 
-## 🎮 What is Code Quest?
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-**Code Quest** is a gamified coding adventure designed to make learning fun and interactive! Built as a part of the **NexCore Games** initiative, this browser-based game takes players through a series of coding-themed challenges.
+You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
----
+This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
 
-## 🚀 Gameplay Stages
+## Learn More
 
-| Stage | Name          | Description |
-|-------|---------------|-------------|
-| 1️⃣    | **MCQ Arena** | Answer multiple-choice questions covering coding concepts, logic, and syntax. |
-| 2️⃣    | **Puzzle Forge** | Solve drag-and-drop or matching puzzles that simulate code structures. |
-| 3️⃣    | **Code Combat** | Fix or complete code snippets to progress and win. |
+To learn more about Next.js, take a look at the following resources:
 
----
+- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
+- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-## 🧰 Tech Stack
+You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
 
-- **Frontend:** [Next.js](https://nextjs.org/) + [TypeScript](https://www.typescriptlang.org/)
-- **Styling:** [Tailwind CSS](https://tailwindcss.com/)
-- **Animation:** [Framer Motion](https://www.framer.com/motion/)
+## Deploy on Vercel
 
----
+The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
-## 📸 Screenshots
-
-> ![image](https://github.com/user-attachments/assets/54a77a22-2aec-40f7-8b08-08d46c6e757f)
-
-
----
-
-## ✨ Features
-
-- ✅ Clean, responsive design
-- ✅ Engaging stage-based learning
-- ✅ Fast and smooth transitions
-- 🔒 Player progress saving *(coming soon)*
-- 🔊 Sound effects & background music *(coming soon)*
-- 🧠 Leaderboards and scoring system *(planned)*
-
----
-
-
----
-
-## 🛣️ Roadmap
-
-- [x] Stage 1: MCQ Arena
-- [ ] Stage 2: Puzzle Forge
-- [ ] Stage 3: Code Combat
-- [ ] Score Tracking + Leaderboard
-
----
-
-## 🤝 Contributing
-
-Love the idea? Want to collaborate or add your own twist?  
-Fork the repo, raise an issue, or just shoot us a PR!
-
----
-
-## 👥 Team
-
-> Developed with passion by **NexCore Games**  
-> Founders: Shreyas M
-
----
-
-## 📜 License
-
-This project is open-source and available under the [MIT License](LICENSE).
-
-
+Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
