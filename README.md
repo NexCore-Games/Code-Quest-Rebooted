@@ -21,8 +21,8 @@ Built with ❤️ by NexCore Games
 | Stage | Name          | Description |
 |-------|---------------|-------------|
 | 1️⃣    | **MCQ Arena** | Answer multiple-choice questions covering coding concepts, logic, and syntax. |
-| 2️⃣    | **Puzzle Forge** *(Coming Soon)* | Solve drag-and-drop or matching puzzles that simulate code structures. |
-| 3️⃣    | **Code Combat** *(Coming Soon)* | Fix or complete code snippets to progress and win. |
+| 2️⃣    | **Puzzle Forge** | Solve drag-and-drop or matching puzzles that simulate code structures. |
+| 3️⃣    | **Code Combat** | Fix or complete code snippets to progress and win. |
 
 ---
 
