@@ -60,9 +60,7 @@ Built with ❤️ by NexCore Games
 - [x] Stage 1: MCQ Arena
 - [ ] Stage 2: Puzzle Forge
 - [ ] Stage 3: Code Combat
-- [ ] User Authentication
 - [ ] Score Tracking + Leaderboard
-- [ ] Admin Panel for Content Management
 
 ---
 
